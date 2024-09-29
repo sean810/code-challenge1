@@ -28,7 +28,7 @@ Git
 
 ### Installation instruction
 ```
-https://github.com/sean810/code-challenge1
+https://sean810.github.io/code-challenge1/
 
 ```
 
