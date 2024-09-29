@@ -28,7 +28,7 @@ Git
 
 ### Installation instruction
 ```
-Git clone https://github.com/hamida-mstafa/Triangle-tracker.git
+https://github.com/sean810/code-challenge1
 
 ```
 
